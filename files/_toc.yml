@@ -1,5 +1,5 @@
 format: jb-book
 root: intro
 chapters:
-- file: overview
+- file: Overview
 - file: bib
