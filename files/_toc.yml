@@ -2,4 +2,6 @@ format: jb-book
 root: intro
 chapters:
 - file: Overview
+- file: Team
+- file: Publications
 - file: bib
