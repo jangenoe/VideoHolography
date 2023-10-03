@@ -7,9 +7,15 @@ Today, despite many efforts by researchers world-wide, there are no holographic 
 We propose a radically novel way to make and control holograms, that will be based on the direct, analog, nanometer-resolution and nanosecond-speed control over the local refractive index of a slab waveguide core over several square centimetres. Holograms will be formed by leaky waves evanescent from the waveguide, and controlled by the refractive-index modulation profile in the core. That profile will be controlled and modulated by electrical fields applied with nano-precision through one of the cladding layers of the waveguide. To that end, a novel metamaterial is proposed for this cladding. Also novel driving schemes will be needed to control the new holographic projecting method.
 With this combined radical innovation in architecture, materials and driving schemes, it is the goal of this project to fully prove the concept of video-rate electrically-controlled holographic projection. This will be the basis for many future innovations and applications, in domains such as augmented reality, automotive, optical metrology (LIDAR, microscopy, ...), mobile communication, education, safety, etc..., and result in a high economic and social impact.
 
-## project results
+## Main project results
 
+### 
 
+### High-quality BTO waveguides
+
+## Remaining challenges
+
+The control of the BTO waveguide at 100 nm resolution requires close interaction with the metamaterial {cite}`croesSubwavelengthCustomReprogrammable2022`. 
 
 ## Main funding info
 
