@@ -44,7 +44,8 @@ Applied Optics 62,F14 (March 2023),
 
 ## Conferences
 
-```{list-table} Conferences
+:::{list-table} Conferences
+:widths: 25 100
 :header-rows: 0
 
 *  - ![foto](./images/logo.png)
@@ -102,7 +103,7 @@ Clement Merckling[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0003-3084-
 **Interface Control and Characterization of SrTiO3/Si(001)**,
 Proc. E-MRS-fall, 20th to 23rd September 2021
 
-```
+:::
 
 ## PhD thesis
 
