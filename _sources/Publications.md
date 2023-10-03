@@ -44,7 +44,11 @@ Applied Optics 62,F14 (March 2023),
 
 ## Conferences
 
-Artur Hermans,
+```{list-table} Conferences
+:header-rows: 0
+
+*  - ![foto](./images/logo.png)
+   - Artur Hermans,
 Robby Janneck,
 Cedric Rolin[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0001-5542-8504),
 S. Clemmen,
@@ -54,7 +58,8 @@ Roel Baets,
 **Growth of Thin Film Organic Crystals with Strong Nonlinearity for On-Chip Second-Order Nonlinear Optics**,
 Proc. IEEE Photonics Benelux Symposium, Brussels, Belgium, November 15-16, 2018.
 
-Guillaume Croes[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0001-6168-9794),
+*  - ![foto](./images/logo.png)
+   - Guillaume Croes[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0001-6168-9794),
 Nikolay Smolentsev, 
 Tsang-Hsuan Wang[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-7760-7500), 
 Robert Gehlhaar[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-3038-9462),
@@ -63,19 +68,22 @@ Jan Genoe[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-4019-5979),
 Proc. SPIE 11484, 114840D: Optical Modeling and Performance Predictions XI (August 2020),
 [DOI: 10.1117/12.2568032](http://dx.doi.org/10.1117/12.2568032)
 
-Guillaume Croes[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0001-6168-9794),
+*  - ![foto](./images/logo.png)
+   - Guillaume Croes[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0001-6168-9794),
 Robert Gehlhaar[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-3038-9462),
 Jan Genoe[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-4019-5979), 
 **Hologram Wavefront Shaping by a Non-Linear Electro-Optic Spatial Light Modulator**,
 Holography: Advances and Modern Trends VIII, April 2023, Prague, Czech Republic
 
-Guillaume Croes[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0001-6168-9794),
+*  - ![foto](./images/logo.png)
+   - Guillaume Croes[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0001-6168-9794),
 Robert Gehlhaar[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-3038-9462),
 Jan Genoe[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-4019-5979), 
 **Sub-Wavelength Custom Reprogrammable Active Photonic Platform for High-Resolution Beam Shaping and Holography**,
 Proc. SPIE PC12196, PC1219619: Active Photonic Platforms, San Diego, California, United States (October 2022)
 
-Clement Merckling[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0003-3084-2543), 
+*  - ![foto](./images/logo.png)
+   - Clement Merckling[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0003-3084-2543), 
 Islam Ahmed, 
 Tsang-Hsuan Wang[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-7760-7500), 
 Moloud Kaviani, 
@@ -85,13 +93,16 @@ Stefan De Gendt[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0003-3775-35
 ECS Meeting Abstracts MA2022-01, 1060 , July 2022, 
 [DOI: 10.1149/MA2022-01191060mtgabs](http://dx.doi.org/10.1149/MA2022-01191060mtgabs)
 
-Tsang-Hsuan Wang[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-7760-7500), 
+*  - ![foto](./images/logo.png)
+   - Tsang-Hsuan Wang[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-7760-7500), 
 Robert Gehlhaar[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-3038-9462),
 Thierry Conard,
 Jan Genoe[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-4019-5979), 
 Clement Merckling[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0003-3084-2543),
 **Interface Control and Characterization of SrTiO3/Si(001)**,
 Proc. E-MRS-fall, 20th to 23rd September 2021
+
+```
 
 ## PhD thesis
 
