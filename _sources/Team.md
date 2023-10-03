@@ -4,13 +4,12 @@
 
 ### Principal Investigator: Jan Genoe
 
-:::{list-table} 
-:widths: 25 100
+```{list-table} PI
 :header-rows: 0
 
 *  - ![foto](./images/JanGenoe.jpg)
-   -Prof. Jan Genoe is scientific director at the Host institution imec and has received all support from the Host institution to build the research team and execute the research. Prof. Jan Genoe also takes the scientific leadership of the Video Holography ERC research.
-:::
+   - Prof. Jan Genoe is scientific director at the Host institution imec and has received all support from the Host institution to build the research team and execute the research. Prof. Jan Genoe also takes the scientific leadership of the Video Holography ERC research.
+```
 
 ### Senior academic staff in the team
 
@@ -30,11 +29,11 @@ Prof. Paul Heremans provides scientific input on the device performance.
 :header-rows: 0
 
 *  - ![foto](./images/logo.png)
-   -Guillaume Croes is the PhD student elaborating the metamaterial stack and optical model for the optimization for driving the hologram.
+   - Guillaume Croes is the PhD student elaborating the metamaterial stack and optical model for the optimization for driving the hologram.
 
 
 *  - ![foto](./images/Tsang-HsuanWang.jpg)
-   -Tsang-Hsuan Wang is the PhD student elaborating the optimized growth conditions for the BTO and STO waveguide materials.
+   - Tsang-Hsuan Wang is the PhD student elaborating the optimized growth conditions for the BTO and STO waveguide materials.
    
 :::
 
