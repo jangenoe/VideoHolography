@@ -10,6 +10,7 @@
 
 *  - ![foto](./images/JanGenoe.jpg)
    -Prof. Jan Genoe is scientific director at the Host institution imec and has received all support from the Host institution to build the research team and execute the research. Prof. Jan Genoe also takes the scientific leadership of the Video Holography ERC research.
+:::
 
 ### Senior academic staff in the team
 

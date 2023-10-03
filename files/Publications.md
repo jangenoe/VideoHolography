@@ -14,40 +14,31 @@ Po-Chun Hsu[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0003-0823-6088),
 Maxim Korytov, 
 Jan Genoe[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-4019-5979), 
 Clement Merckling[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0003-3084-2543), 
-
 **[Polarization control of epitaxial barium titanate (BaTiO<sub>3</sub>) grown by pulsed-laser deposition on a MBE-SrTiO<sub>3</sub>/Si(001) pseudo-substrate]()**, 
-
-Journal of Applied Physics 128, 104104 (September 2020),
-
+Journal of Applied Physics 128, 104104 (September 2020), 
 [DOI: 10.1063/5.0019980](http://dx.doi.org/10.1063/5.0019980)
 
 *  - ![foto](./images/logo.png)
    - Tsang-Hsuan Wang[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-7760-7500), 
-Robert Gehlhaar[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-3038-9462),
-Thierry Conard,
-Paola Favia,
+Robert Gehlhaar[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-3038-9462), 
+Thierry Conard, 
+Paola Favia, 
 Jan Genoe[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-4019-5979), 
-Clement Merckling[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0003-3084-2543),  
-
+Clement Merckling[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0003-3084-2543), 
 **[Interfacial control of SrTiO3/Si(0 0 1) epitaxy and its effect on physical and optical properties]()**, 
-
-Journal of Crystal Growth 582, 126524 (March 2022),
-
+Journal of Crystal Growth 582, 126524 (March 2022), 
 [DOI: 10.1016/j.jcrysgro.2022.126524](http://dx.doi.org/10.1016/j.jcrysgro.2022.126524)
 
 
 *  - ![foto](./images/AO2023.jpg)
-   - Guillaume Croes[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0001-6168-9794),
-Renaud Puybaret[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-4946-2658),
-Janusz Bogdanowicz,
-Umberto Celano,
-Robert Gehlhaar[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-3038-9462),
+   - Guillaume Croes[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0001-6168-9794), 
+Renaud Puybaret[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-4946-2658), 
+Janusz Bogdanowicz, 
+Umberto Celano, 
+Robert Gehlhaar[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-3038-9462), 
 Jan Genoe[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-4019-5979), 
- 
 **[Photonic Metamaterial with a Subwavelength Electrode Pattern](docs/PhotonicMetamaterial.pdf)**, 
-
 Applied Optics 62,F14 (March 2023), 
-
 [DOI: 10.1364/AO.481396](http://dx.doi.org/10.1364/AO.481396)
 :::
 
