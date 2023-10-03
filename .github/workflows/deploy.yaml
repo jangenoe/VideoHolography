@@ -19,7 +19,7 @@ jobs:
     - name: Build the Jupyterbook website
       run: |
         jb build --all ./files/
-        cp ./files/docs ./files/_build/html/
+        # cp ./files/docs ./files/_build/html/
     - name: GitHub Pages action
       uses: peaceiris/actions-gh-pages@v3
       with:

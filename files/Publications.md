@@ -80,9 +80,8 @@ Proc. SPIE PC12196, PC1219619: Active Photonic Platforms, San Diego, California,
    - Tsang-Hsuan Wang,
 **[Study of Barium Titanate Epitaxy on Silicon toward Its Application in Video Holography](./docs/thesisTsang.pdf)**,
 PhD Thesis, KULeuven, Leuven, Belgium, Monday, February 13, 2023.
-:::{list-table} PhD Jury
-:widths: 15 100
-:header-rows: 0
 
 *  - ![foto](./images/phd.webp)
    - Guillaume Croes, (PhD Thesis in preparation), KULeuven, Leuven, Belgium
+   
+:::
