@@ -22,6 +22,6 @@ The control of the BTO waveguide at 100 nm resolution requires close interaction
 *	Programme Funding: Horizon 2020
 *	Sub Programme Area: ERC-2016-ADG
 *	Project Reference: 742299
-*	From 01.10.2017 to 31.03.2023
+*	From October 1, 2017 to March 31, 2023
 *	Budget: EUR 2 499 074
 *	Contract type: ERC-ADG

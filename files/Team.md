@@ -16,7 +16,7 @@
 ```{list-table}
 :header-rows: 0
 
-*  - ![foto](./images/Robert.png)
+*  - ![foto](./images/Robert.jpg)
    - Dr. Robert Gehlhaar provides scientific input on the optical stack design and characterization.
 
 *  - ![foto](./images/logo.png)
@@ -35,7 +35,7 @@
 :widths: 25 100
 :header-rows: 0
 
-*  - ![foto](./images/Guillaume.png)
+*  - ![foto](./images/Guillaume.jpg)
    - Guillaume Croes is the PhD student elaborating the metamaterial stack and optical model for the optimization for driving the hologram.
 
 
