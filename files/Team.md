@@ -2,9 +2,9 @@
 
 ## Core Team
 
-### Principal Investigator: Jan Genoe
+### Principal Investigator
 
-```{list-table} PI
+```{list-table}
 :header-rows: 0
 
 *  - ![foto](./images/JanGenoe.jpg)
@@ -13,29 +13,36 @@
 
 ### Senior academic staff in the team
 
-Dr. Robert Gehlhaar provides scientific input on the optical stack design and characterization.
+```{list-table}
+:header-rows: 0
 
-Dr. Zsolt Tokei provides technology input on the realisation of devices in the 300mm cleanroom.
+*  - ![foto](./images/Robert.png)
+   - Dr. Robert Gehlhaar provides scientific input on the optical stack design and characterization.
 
-Prof. Clement Merckling provides scientific input on the material growth conditions for the BTO and STO waveguide materials.
+*  - ![foto](./images/logo.png)
+   - Dr. Zsolt Tokei provides technology input on the realisation of devices in the 300mm cleanroom.
 
-Prof. Paul Heremans provides scientific input on the device performance.
+*  - ![foto](./images/logo.png)
+   - Prof. Clement Merckling provides scientific input on the material growth conditions for the BTO and STO waveguide materials.
 
+*  - ![foto](./images/logo.png)
+   - Prof. Paul Heremans provides scientific input on the device performance.
+```
 
 ### PhD students
 
-:::{list-table} PhD students
+```{list-table} PhD students
 :widths: 25 100
 :header-rows: 0
 
-*  - ![foto](./images/logo.png)
+*  - ![foto](./images/Guillaume.png)
    - Guillaume Croes is the PhD student elaborating the metamaterial stack and optical model for the optimization for driving the hologram.
 
 
 *  - ![foto](./images/Tsang-HsuanWang.jpg)
    - Tsang-Hsuan Wang is the PhD student elaborating the optimized growth conditions for the BTO and STO waveguide materials.
    
-:::
+```
 
 ## Other contributors
 
