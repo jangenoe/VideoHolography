@@ -6,6 +6,7 @@ only_build_toc_files: true
 repository:
   url: https://github.com/jangenoe/VideoHolography
 html:
+  favicon: images/erc.ico
   use_issues_button: false
   use_edit_page_button: false
   use_repository_button: false
