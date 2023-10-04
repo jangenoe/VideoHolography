@@ -21,13 +21,13 @@
 *  - ![foto](./images/Robert.jpg)
    - Dr. Robert Gehlhaar provides scientific input on the optical stack design and characterization.
 
-*  - ![foto](./images/logo.png)
+*  - ![foto](./images/Zsolt.jpg)
    - Dr. Zsolt Tokei provides technology input on the realisation of devices in the 300mm cleanroom.
 
-*  - ![foto](./images/logo.png)
+*  - ![foto](./images/Clement.jpg)
    - Prof. Clement Merckling provides scientific input on the material growth conditions for the BTO and STO waveguide materials.
 
-*  - ![foto](./images/logo.png)
+*  - ![foto](./images/Paul.jpg)
    - Prof. Paul Heremans provides scientific input on the device performance.
 :::
 
