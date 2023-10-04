@@ -316,7 +316,12 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction">Introduction</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction">Introduction</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#short-history-of-holography">Short history of Holography</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#target-applications-for-holography">Target applications for holography</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#selected-implementation-in-the-video-holography-erc-project">Selected implementation in the Video holography ERC project</a></li>
+</ul>
+</li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#main-project-results">Main project results</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#metamaterial-development">Metamaterial development</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#high-quality-bto-waveguide">High-quality BTO waveguide</a></li>
@@ -342,31 +347,38 @@ document.write(`
 <p>Today, despite many efforts by researchers world-wide, there are no holographic projectors that allow video-rate electronically controlled projection of complex holograms. Optically re-write-able holograms exist, but they are too slow; Acoustically-formed holograms can be switched fast but the image complexity is very limited. We identify the essential roadblock as one that we intend to clear by a breakthrough innovation coming from a combination of electronics, optics and material science.
 We propose a radically novel way to make and control holograms, that will be based on the direct, analog, nanometer-resolution and nanosecond-speed control over the local refractive index of a slab waveguide core over several square centimetres. Holograms will be formed by leaky waves evanescent from the waveguide, and controlled by the refractive-index modulation profile in the core. That profile will be controlled and modulated by electrical fields applied with nano-precision through one of the cladding layers of the waveguide. To that end, a novel metamaterial is proposed for this cladding. Also novel driving schemes will be needed to control the new holographic projecting method.
 With this combined radical innovation in architecture, materials and driving schemes, it is the goal of this project to fully prove the concept of video-rate electrically-controlled holographic projection. This will be the basis for many future innovations and applications, in domains such as augmented reality, automotive, optical metrology (LIDAR, microscopy, …), mobile communication, education, safety, etc…, and result in a high economic and social impact.</p>
+<section id="short-history-of-holography">
+<h3>Short history of Holography<a class="headerlink" href="#short-history-of-holography" title="Permalink to this heading">#</a></h3>
 <p><a class="reference internal" href="#scalingroadmap"><span class="std std-numref">Fig. 1</span></a> shows the evolution of hologram demonstrators, both in resolution and speed.</p>
 <figure class="align-default" id="scalingroadmap">
-<a class="reference internal image-reference" href="_images/video-holography.jpg"><img alt="Scaling Roadmap" src="_images/video-holography.jpg" style="width: 1490.0px; height: 691.0px;" /></a>
+<a class="reference internal image-reference" href="_images/video-holography.jpg"><img alt="Scaling Roadmap" src="_images/video-holography.jpg" style="width: 100%;" /></a>
 <figcaption>
 <p><span class="caption-number">Fig. 1 </span><span class="caption-text">Scaling Roadmap</span><a class="headerlink" href="#scalingroadmap" title="Permalink to this image">#</a></p>
 </figcaption>
 </figure>
+</section>
+<section id="target-applications-for-holography">
+<h3>Target applications for holography<a class="headerlink" href="#target-applications-for-holography" title="Permalink to this heading">#</a></h3>
 <p><a class="reference internal" href="#videoconferencing"><span class="std std-numref">Fig. 2</span></a> shows video conferencing as one of the possible applications for holography.</p>
 <figure class="align-default" id="videoconferencing">
-<video src="_images/hologram_imec1.mp4" title="_images/hologram_imec1.mp4">
-<a href="_images/hologram_imec1.mp4">_images/hologram_imec1.mp4</a>
-</video>
+<a class="reference internal image-reference" href="_images/hologram_imec1.mp4"><video src="_images/hologram_imec1.mp4" title="Video Conferencing" width="100%"><a href="_images/hologram_imec1.mp4">Video Conferencing</a></video></a>
 <figcaption>
-<p><span class="caption-number">Fig. 2 </span><span class="caption-text">Video conferencing as one of the possible applications for holography</span><a class="headerlink" href="#videoconferencing" title="Permalink to this image">#</a></p>
+<p><span class="caption-number">Fig. 2 </span><span class="caption-text">Video conferencing as one of the possible applications for holography (click on the video to start playing)</span><a class="headerlink" href="#videoconferencing" title="Permalink to this image">#</a></p>
 </figcaption>
 </figure>
+</section>
+<section id="selected-implementation-in-the-video-holography-erc-project">
+<h3>Selected implementation in the Video holography ERC project<a class="headerlink" href="#selected-implementation-in-the-video-holography-erc-project" title="Permalink to this heading">#</a></h3>
 <p><a class="reference internal" href="#selectedimplementation"><span class="std std-numref">Fig. 3</span></a> shows the selected implementation that has been elaborated in this project. A 500 nm thick metamaterial separates the metal electrodes where the requested hologram is applied from the BTO waveguide. As a consequence, no metal is in the presence of the BTO waveguide, which allows light to propagate in the waveguide without scattering losses. The metamaterial is fabricated using SiN wherein vertical trenches are etched at 100 nm pitch in both directions. These trenches have been filled with InGaZnO that has been engineered such that the dielectric constant carefully matches the dielectric constant of SiN.  This lead to a metamaterial that is completely uniform and has no losses, when it is considered as the optical material that forms the cladding of the waveguide. However, when the same metamaterial is looked at from the electrical perspective, we have conductive channels at a 100 nm pitch that guides the electrical signal from the electrical contacts below to the waveguide above.
 As the waveguide material, BTO has been selected. BTO is known to have the highest Pockels effect. This enables us to alter the effective dielectric constant of the waveguide locally at a pitch of 100 nm using relative small electric fields. This dielectric variation forms the hologram that is applied.</p>
 <figure class="align-default" id="selectedimplementation">
-<a class="reference internal image-reference" href="_images/video-holography2.jpg"><img alt="Selected implementation" src="_images/video-holography2.jpg" style="width: 1464.0px; height: 573.0px;" /></a>
+<a class="reference internal image-reference" href="_images/video-holography2.jpg"><img alt="Selected implementation" src="_images/video-holography2.jpg" style="width: 100%;" /></a>
 <figcaption>
 <p><span class="caption-number">Fig. 3 </span><span class="caption-text">Selected implementation</span><a class="headerlink" href="#selectedimplementation" title="Permalink to this image">#</a></p>
 </figcaption>
 </figure>
 <p>Changing the hologram using the hardware in <a class="reference internal" href="#selectedimplementation"><span class="std std-numref">Fig. 3</span></a> can be obtained by changing the voltages at the bottom electrodes, which can be done reasonably fast, e.g. at 100 Hz rate. This allows also to swap the hologram between 3 subsequent holograms, one for red, one for green and one for blue at video rates. This yields full color video holography.</p>
+</section>
 </section>
 <section id="main-project-results">
 <h2>Main project results<a class="headerlink" href="#main-project-results" title="Permalink to this heading">#</a></h2>
@@ -390,6 +402,7 @@ As the waveguide material, BTO has been selected. BTO is known to have the highe
 <li><p>From October 1, 2017 to March 31, 2023</p></li>
 <li><p>Budget: EUR 2 499 074</p></li>
 <li><p>Contract type: ERC-ADG</p></li>
+<li><p>DOI: <a class="reference external" href="https://doi.org/10.3030/742299">10.3030/742299</a></p></li>
 </ul>
 </section>
 <div class="toctree-wrapper compound">
@@ -450,7 +463,12 @@ As the waveguide material, BTO has been selected. BTO is known to have the highe
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction">Introduction</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction">Introduction</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#short-history-of-holography">Short history of Holography</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#target-applications-for-holography">Target applications for holography</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#selected-implementation-in-the-video-holography-erc-project">Selected implementation in the Video holography ERC project</a></li>
+</ul>
+</li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#main-project-results">Main project results</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#metamaterial-development">Metamaterial development</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#high-quality-bto-waveguide">High-quality BTO waveguide</a></li>
