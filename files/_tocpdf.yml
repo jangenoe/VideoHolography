@@ -1,0 +1,7 @@
+format: jb-book
+root: intro2
+chapters:
+# - file: Overview
+- file: Team
+- file: Publications
+- file: bib

@@ -19,14 +19,6 @@ Scaling Roadmap
 
 ```
 
-{numref}`VideoConferencing` shows video conferencing as one of the possible applications for holography.
-
-:::{figure} ./videos/hologram_imec1.mp4
-:name: VideoConferencing
-
-Video conferencing as one of the possible applications for holography
-
-:::
 
 {numref}`SelectedImplementation` shows the selected implementation that has been elaborated in this project. A 500 nm thick metamaterial separates the metal electrodes where the requested hologram is applied from the BTO waveguide. As a consequence, no metal is in the presence of the BTO waveguide, which allows light to propagate in the waveguide without scattering losses. The metamaterial is fabricated using SiN wherein vertical trenches are etched at 100 nm pitch in both directions. These trenches have been filled with InGaZnO that has been engineered such that the dielectric constant carefully matches the dielectric constant of SiN.  This lead to a metamaterial that is completely uniform and has no losses, when it is considered as the optical material that forms the cladding of the waveguide. However, when the same metamaterial is looked at from the electrical perspective, we have conductive channels at a 100 nm pitch that guides the electrical signal from the electrical contacts below to the waveguide above.
 As the waveguide material, BTO has been selected. BTO is known to have the highest Pockels effect. This enables us to alter the effective dielectric constant of the waveguide locally at a pitch of 100 nm using relative small electric fields. This dielectric variation forms the hologram that is applied.
