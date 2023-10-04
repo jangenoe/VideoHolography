@@ -19,7 +19,6 @@ jobs:
     - name: Build the Jupyterbook website
       run: |
         jb build --all ./files/
-        # cp ./files/docs ./files/_build/html/
     - name: GitHub Pages action
       uses: peaceiris/actions-gh-pages@v3
       with:
@@ -50,7 +49,11 @@ jobs:
           xindy
     - name: Build the Jupyterbook pdf
       run: |
-        jb build --builder pdflatex --all files/  
+        mv ./files/_toc.yml ./files/_tochtml.yml
+        mv ./files/_tocpdf.yml ./files/_toc.yml
+        jb build --builder pdflatex --all files/
+        mv ./files/_toc.yml ./files/_tocpdf.yml
+        mv ./files/_tochtml.yml ./files/_toc.yml
         mv ./files/_build/latex/python.pdf ./files/_build/latex/VideoHolography.pdf
     - name: GitHub Pages action
       uses: peaceiris/actions-gh-pages@v3
