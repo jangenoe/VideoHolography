@@ -62,7 +62,7 @@ We have been able to fabricate the required metamaterial in a standard 300 mm cl
 
 ### High-quality BTO waveguide
 
-We have realized high-quality BTO layers{cite}`mercklingInvitedIntegratedPerovskites2022` on Silicon wafers by both Molecular Beam Epitaxy (MBE) and Pulsed Laser Deposition (PLD){cite}`tsang-hsuanwangPolarizationControlEpitaxial2020,tsanghsuanwangSingleCrystallineBaTiO32020`. Both technologies required an SrTiO<sub>3</sub> interface layer for lattice matching (see {cite}`tsang-hsuanwangInterfacialControlSrTiO32022,t-hwangInterfaceControlCharacterization20`). 
+We have realized high-quality BTO layers {cite}`mercklingInvitedIntegratedPerovskites2022` on Silicon wafers by both Molecular Beam Epitaxy (MBE) and Pulsed Laser Deposition (PLD) {cite}`tsang-hsuanwangPolarizationControlEpitaxial2020,tsanghsuanwangSingleCrystallineBaTiO32020`. Both technologies required an SrTiO<sub>3</sub> interface layer for lattice matching (see {cite}`tsang-hsuanwangInterfacialControlSrTiO32022,t-hwangInterfaceControlCharacterization20`). 
 
 The work on the BTO waveguides is been summarized in the PhD thesis of Tsang-Hsuan Wang {cite}`tsang-hsuanwangStudyPerovskiteOxide2023`.
 

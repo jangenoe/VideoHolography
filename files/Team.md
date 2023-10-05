@@ -1,4 +1,4 @@
-# Team 
+# ERC Team 
 
 The ERC project Video Holography has been executed at [imec](https://www.imec.be) as the host institute. It has been conceived and xx by Prof. Jan Genoe, as the principal investigator. He has been supported a strong team of senior academic staff (see {numref}`staff`) and two PhD students diving deep into the subject of the project (see {numref}`phdstaff`). The project would also not have been possible without the strong support from several other technology experts from the different research units in the host institute [imec](https://www.imec.be).
 
