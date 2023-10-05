@@ -1,4 +1,4 @@
-# Publications 
+# ERC Publications 
 
 The work performed in the ERC project Video Holography has been published in journal papers (see {numref}`JournalPapers`) and presented at conferences (see {numref}`Conferences`). A more elaborated description of the results can be found in the PhDs that have been supported by this project (see {numref}`PhD`).
 
