@@ -52,7 +52,7 @@ submitted manuscript
    - Guillaume Croes[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0001-6168-9794), 
 Robert Gehlhaar[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-3038-9462), 
 Jan Genoe[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-4019-5979), 
-**xxx**, 
+**Computer Generated Holography for Waveguide based Holographic Displays**, 
 Manuscript in preparation
 
 :::
