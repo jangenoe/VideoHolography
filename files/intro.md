@@ -9,7 +9,11 @@ With this combined radical innovation in architecture, materials and driving sch
 
 ### Short history of Holography
 
-{numref}`ScalingRoadmap` shows the evolution of hologram demonstrators, both in resolution and speed.
+The concepts of holography have been first elaborated by Dennis Gabor around 1947. He received the [Nobel Prize](https://www.nobelprize.org/prizes/physics/1971/summary/) for this work. However, at the time Dennis Gabor elaborated holography, neither (1) the coherent light sources nor (2) the technologies to pattern the hologram at sufficient high resolution were available. Good coherent laser sources in the visible came available around 1960, first for red and green and more recent also for the blue.
+
+For static holograms, progress on the photographic film resolution was the first to move the resolution towards the quarter wavelength. Further improvement on the resolution of static holograms was obtained from the progress in photoresist resolution that was driven by the progress in the semiconductor industry. The advent of nano-imprint technologies further enabled upscaling of static holograms at large scale. Static holograms can be found in banknotes, credit cards, ...
+
+The next step is to make the hologram dynamic. This has been a challenging journey, as a hologram comprises a huge amount of information, which makes it a challenge to create, transfer and store this information. {numref}`ScalingRoadmap` shows the evolution of dynamic hologram demonstrators, both in resolution and speed.
 
 ```{figure} ./images/video-holography.jpg
 :width: 100%
