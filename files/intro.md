@@ -24,9 +24,9 @@ Scaling Roadmap
 
 ```
 
-### Target applications for holography
+### Target applications for holography 
 
-{numref}`VideoConferencing` shows video conferencing as one of the possible applications for holography.
+There are numerous applications for video rate, full color hologram platforms. One possible platform, 3 dimensional video conferencing, is depicted in the video in {numref}`VideoConferencing`.
 
 ```{figure} ./videos/hologram_imec1.mp4
 :width: 100%
@@ -54,13 +54,17 @@ Changing the hologram using the hardware in {numref}`SelectedImplementation` can
 
 ## Main project results
 
+The project has focused on two major scientific challenges, i.e. the development of the metamaterial and the realization of a high-quality BTO waveguide. 
+
 ### Metamaterial development
 
-
+We have been able to fabricate the required metamaterial in a standard 300 mm cleanroom {cite}`guillaumecroesPhotonicMetamaterialSubwavelength2023`. We have also modeled the obtained electrical fields in the BTO waveguides, both along the vertical axis and in the horizontal plane {cite}`guillaumecroesNonlinearElectroopticModelling2020,croesSubwavelengthCustomReprogrammable2022`. The knowledge of the Pockels coefficients both along the a-axis and the c-axis enables subsequently to describe a detailed algorithm for the hologram generation {cite}`guillaumecroesPhotonicMetamaterialSubwavelength2023`.
 
 ### High-quality BTO waveguide
 
+We have realized high-quality BTO layers{cite}`mercklingInvitedIntegratedPerovskites2022` on Silicon wafers by both Molecular Beam Epitaxy (MBE) and Pulsed Laser Deposition (PLD){cite}`tsang-hsuanwangPolarizationControlEpitaxial2020,tsanghsuanwangSingleCrystallineBaTiO32020`. Both technologies required an SrTiO<sub>3</sub> interface layer for lattice matching (see {cite}`tsang-hsuanwangInterfacialControlSrTiO32022,t-hwangInterfaceControlCharacterization20`). 
 
+The work on the BTO waveguides is been summarized in the PhD thesis of Tsang-Hsuan Wang {cite}`tsang-hsuanwangStudyPerovskiteOxide2023`.
 
 ## Remaining challenges en further work
 

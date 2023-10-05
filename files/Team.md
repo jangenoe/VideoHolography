@@ -1,4 +1,6 @@
-# Team
+# Team 
+
+The ERC project Video Holography has been executed at [imec](https://www.imec.be) as the host institute. It has been conceived and xx by Prof. Jan Genoe, as the principal investigator. He has been supported a strong team of senior academic staff (see {numref}`staff`) and two PhD students diving deep into the subject of the project (see {numref}`phdstaff`). The project would also not have been possible without the strong support from several other technology experts from the different research units in the host institute [imec](https://www.imec.be).
 
 ## Core Team
 
@@ -17,6 +19,7 @@
 :::{list-table} Senior academic staff
 :widths: 25 100
 :header-rows: 0
+:name: staff
 
 *  - ![foto](./images/Robert.jpg)
    - Dr. Robert Gehlhaar provides scientific input on the optical stack design and characterization.
@@ -36,6 +39,7 @@
 :::{list-table} PhD students
 :widths: 25 100
 :header-rows: 0
+:name: phdstaff
 
 *  - ![foto](./images/Guillaume.jpg)
    - Guillaume Croes is the PhD student elaborating the metamaterial stack and optical model for the optimization for driving the hologram.
@@ -48,7 +52,7 @@
 
 ## Other contributors
 
-* Diana Tsvetanova provides input on the CMP processes in the 300mm line.
+* Diana Tsvetanova provides input on the CMP processes in the 300 mm line.
 
 * Yunlong Li provides input on the process sequence in the 300 mm line.
 
