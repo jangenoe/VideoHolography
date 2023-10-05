@@ -1,4 +1,6 @@
-# Publications
+# Publications 
+
+The work performed in the ERC project Video Holography has been published in journal papers (see {numref}`JournalPapers`) and presented at conferences (see {numref}`Conferences`). A more elaborated description of the results can be found in the PhDs that have been supported by this project (see {numref}`PhD`).
 
 
 ## Journal papers
@@ -7,6 +9,7 @@
 :::{list-table} Journal papers
 :widths: 35 70
 :header-rows: 0
+:name: JournalPapers
 
 *  -  
    - Tsang-Hsuan Wang[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-7760-7500), 
@@ -63,6 +66,7 @@ Manuscript in preparation
 :::{list-table} Conferences
 :widths: 35 70
 :header-rows: 0
+:name: Conferences
 
 *  - 
    - Artur Hermans,
@@ -126,6 +130,7 @@ Proc. E-MRS-fall, 20th to 23rd September 2021
 :::{list-table} PhD thesis
 :widths: 35 70
 :header-rows: 0
+:name: PhD
 
 *  - ![foto](./images/phd.png)
    - Tsang-Hsuan Wang,
