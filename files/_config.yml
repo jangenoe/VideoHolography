@@ -1,6 +1,5 @@
 title: Video Holography
 author: Jan Genoe
-logo: images/logo.png
 description: Video Holography ERC project results summary
 only_build_toc_files: true
 repository:
@@ -24,6 +23,10 @@ bibtex_bibfiles:
   - VideoHolography.bib
 sphinx:
   config:
+    html_theme_options: 
+      logo:
+        image_light: images/logo.png
+        image_dark: images/logo_negatif.png
     html_show_copyright: false
     nb_remove_code_source: true
     latex_logo: images/logo.png
