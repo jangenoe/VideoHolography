@@ -134,7 +134,7 @@ Proc. E-MRS-fall, 20th to 23rd September 2021
 
 *  - ![foto](./images/phd.png)
    - Tsang-Hsuan Wang,
-**Study of Barium Titanate Epitaxy on Silicon toward Its Application in Video Holography**,
+**[Study of Barium Titanate Epitaxy on Silicon toward Its Application in Video Holography](thesisTsang.pdf)**,
 PhD Thesis, KULeuven, Leuven, Belgium, Monday, February 13, 2023.
 
 *  - ![foto](./images/phd.png)
