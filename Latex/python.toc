@@ -1,0 +1,12 @@
+\selectlanguage *{english}
+\contentsline {chapter}{\numberline {1}ERC Team}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Core Team}{4}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Principal Investigator}{4}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Senior academic staff in the team}{5}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}PhD students}{6}{subsection.1.1.3}%
+\contentsline {section}{\numberline {1.2}Other contributors}{6}{section.1.2}%
+\contentsline {chapter}{\numberline {2}ERC Publications}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Journal papers}{8}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Conferences}{9}{section.2.2}%
+\contentsline {section}{\numberline {2.3}PhD thesis}{10}{section.2.3}%
+\contentsline {chapter}{Bibliography}{11}{chapter*.3}%
