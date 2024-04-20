@@ -25,10 +25,6 @@ bibtex_bibfiles:
   - VideoHolography.bib
 sphinx:
   config:
-    html_theme_options: 
-      logo:
-        image_light: images/logo.png
-        image_dark: images/logo_negatif.png
     html_show_copyright: false
     nb_remove_code_source: true
     latex_logo: images/logo.png
@@ -40,3 +36,7 @@ sphinx:
         \AtBeginEnvironment{figure}{\pretocmd{\hyperlink}{\protect}{}{}}  
     bibtex_reference_style: label
     bibtex_default_style : "unsrt"
+html_theme_options:
+  logo:
+    image_light:images/logo.pngng"
+    image_darkimages/logo_negatif.pngpng"
