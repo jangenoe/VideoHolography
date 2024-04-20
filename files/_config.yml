@@ -1,8 +1,6 @@
 title: Video Holography
 author: Jan Genoe
-logo: 
-  image_light: images/logo.png
-  image_dark: images/logo_negatif.png
+logo: images/logo.png
 description: Video Holography ERC project results summary
 only_build_toc_files: true
 repository:
