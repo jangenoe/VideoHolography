@@ -29,9 +29,9 @@ bibtex_bibfiles:
 sphinx:
   config:
     html_theme_options:
-      logo:{
+      logo:
         image_light: "images/logo.png",
-        image_dark: "images/logo_negatif.png"}
+        image_dark: "images/logo_negatif.png"
     html_show_copyright: false
     nb_remove_code_source: true
     latex_logo: images/logo.png
