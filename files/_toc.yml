@@ -1,7 +1,7 @@
 format: jb-book
 root: intro
 chapters:
-# - file: Overview
+- file: sota
 - file: Team
 - file: Publications
 - file: bib

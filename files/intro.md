@@ -1,4 +1,4 @@
-# Video Holography
+# Video Holography: summary
 
 
 ## Introduction
@@ -35,6 +35,7 @@ There are numerous applications for video rate, full color hologram platforms. O
 Video conferencing as one of the possible applications for holography (click on the video to start playing)
 
 ```
+
 
 ### Selected implementation in the Video holography ERC project
 

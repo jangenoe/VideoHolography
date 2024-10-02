@@ -3,13 +3,8 @@ author: Jan Genoe
 logo: images/logo.png
 description: Video Holography ERC project results summary
 only_build_toc_files: true
-repository:
-  url: https://github.com/jangenoe/VideoHolography
 html:
   favicon: images/erc.ico
-  use_issues_button: false
-  use_edit_page_button: false
-  use_repository_button: false
 execute:
   execute_notebooks: 'off'
 parse:
@@ -29,10 +24,18 @@ bibtex_bibfiles:
 sphinx:
   config:
     html_theme_options:
+      repository_url: https://github.com/jangenoe/VideoHolography
+      use_issues_button: false
+      use_download_button: false
+      use_repository_button: false
+      use_edit_page_button: false
+      home_page_in_toc: true
       logo:
         image_light: images/logo.png
         image_dark: images/logo_negatif.png
+    html_favicon: images/erc.ico
     html_show_copyright: false
+    html_static_path: ['docs']
     nb_remove_code_source: true
     latex_logo: images/logo.png
     latex_elements:
