@@ -43,6 +43,7 @@ The ERC project Video Holography has been executed at [imec](https://www.imec.be
 
 *  - ![foto](./images/Guillaume.jpg)
    - Guillaume Croes is the PhD student elaborating the metamaterial stack and optical model for the optimization for driving the hologram.
+    He was awarded a Strategic Basic Research Fellowship from FWO for his PhD
 
 
 *  - ![foto](./images/Tsang-HsuanWang.jpg)
