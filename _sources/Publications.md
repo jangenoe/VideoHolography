@@ -87,7 +87,7 @@ Nikolay Smolentsev,
 Tsang-Hsuan Wang[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-7760-7500), 
 Robert Gehlhaar[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-3038-9462),
 Jan Genoe[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-4019-5979), 
-**[Non-linear electro-optic modelling of a Barium Titanate grating coupler](docs/.pdf)**, 
+**[Non-linear electro-optic modelling of a Barium Titanate grating coupler](docs/XII1SPIE.pdf)**, 
 Proc. SPIE 11484, 114840D: Optical Modeling and Performance Predictions XI (August 2020),
 [DOI: 10.1117/12.2568032](http://dx.doi.org/10.1117/12.2568032)
 
@@ -95,14 +95,14 @@ Proc. SPIE 11484, 114840D: Optical Modeling and Performance Predictions XI (Augu
    - Guillaume Croes[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0001-6168-9794),
 Robert Gehlhaar[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-3038-9462),
 Jan Genoe[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-4019-5979), 
-**[Hologram Wavefront Shaping by a Non-Linear Electro-Optic Spatial Light Modulator](docs/.pdf)**,
+**[Hologram Wavefront Shaping by a Non-Linear Electro-Optic Spatial Light Modulator](docs/Hologramwavefrontshaping_SPIEOptics.html)**,
 Holography: Advances and Modern Trends VIII, April 2023, Prague, Czech Republic
 
 *  - ![foto](./images/Guillaume2022.png)
    - Guillaume Croes[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0001-6168-9794),
 Robert Gehlhaar[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-3038-9462),
 Jan Genoe[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-4019-5979), 
-**[Sub-Wavelength Custom Reprogrammable Active Photonic Platform for High-Resolution Beam Shaping and Holography](docs/.pdf)**,
+**[Sub-Wavelength Custom Reprogrammable Active Photonic Platform for High-Resolution Beam Shaping and Holography](docs/Sub-wavelengthcustomreprogrammable.pdf)**,
 Proc. SPIE PC12196, PC1219619: Active Photonic Platforms, San Diego, California, United States (October 2022)
 
 *  - 
@@ -112,7 +112,7 @@ Tsang-Hsuan Wang[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-7760-7
 Moloud Kaviani, 
 Jan Genoe[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-4019-5979), 
 Stefan De Gendt[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0003-3775-3578), 
-**[Integrated Perovskites Oxides on Silicon: From Optical to Quantum Applications](docs/.pdf)**,
+**[Integrated Perovskites Oxides on Silicon: From Optical to Quantum Applications](docs/ECS_Merckling_invited.pdf)**,
 ECS Meeting Abstracts MA2022-01, 1060 , July 2022, 
 [DOI: 10.1149/MA2022-01191060mtgabs](http://dx.doi.org/10.1149/MA2022-01191060mtgabs)
 
@@ -122,7 +122,7 @@ Robert Gehlhaar[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-3038-94
 Thierry Conard,
 Jan Genoe[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-4019-5979), 
 Clement Merckling[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0003-3084-2543),
-**[Interface Control and Characterization of SrTiO3/Si(001)](docs/.pdf)**,
+**[Interface Control and Characterization of SrTiO3/Si(001)](docs/EMRS2020Spring_Abstract_Tsang.pdf)**,
 Proc. E-MRS-fall, 20th to 23rd September 2021
 
 *  - 
