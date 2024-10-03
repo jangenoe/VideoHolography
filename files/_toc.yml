@@ -5,3 +5,8 @@ chapters:
 - file: Team
 - file: Publications
 - file: bib
+- url: https://jangenoe.github.io/VideoHolography/pdf/VideoHolography.pdf
+  title: PDF version of this document
+- url: https://erc.europa.eu/homepage
+  title: European Research Council homepage
+

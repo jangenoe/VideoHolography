@@ -54,10 +54,10 @@ jobs:
         jb build --builder pdflatex --all files/
         mv ./files/_toc.yml ./files/_tocpdf.yml
         mv ./files/_tochtml.yml ./files/_toc.yml
-        mv ./files/_build/latex/python.pdf ./files/_build/latex/VideoHolography.pdf
+         mv ./files/_build/latex/python.pdf ./files/_build/latex/VideoHolography.pdf
     - name: GitHub Pages action
       uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./files/_build/latex/
-        destination_dir: Latex
+        destination_dir: pdf

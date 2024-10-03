@@ -55,6 +55,7 @@ ACS Photonics 11,  pp. 529–536, Feb. 2024,
    
 *  - 
    - Guillaume Croes[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0001-6168-9794), 
+   V. Krasnov, 
 Robert Gehlhaar[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-3038-9462), 
 Jan Genoe[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-4019-5979), 
 **Computer Generated Holography for Waveguide based Holographic Displays**, 
