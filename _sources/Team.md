@@ -10,7 +10,9 @@ The ERC project Video Holography has been executed at [imec](https://www.imec.be
 :widths: 25 100
 :header-rows: 0
 
-*  - ![foto](./images/JanGenoe.jpg)
+*  - ```{image} ./images/JanGenoe.jpg
+	 :align: center
+	 ```
    - Prof. Jan Genoe is scientific director at the Host institution imec and has received all support from the Host institution to build the research team and execute the research. Prof. Jan Genoe also takes the scientific leadership of the Video Holography ERC research.
 :::
 
