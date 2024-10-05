@@ -33,6 +33,9 @@ sphinx:
       logo:
         image_light: images/logo.png
         image_dark: images/logo_negatif.png
+    extensions : [
+    'sphinx_toolbox.tweaks.latex_layout',
+    ]
     html_favicon: images/erc.ico
     html_show_copyright: false
     html_static_path: ['docs']

@@ -6,17 +6,17 @@ The ERC project Video Holography has been executed at [imec](https://www.imec.be
 
 ### Principal Investigator
 
-:::{list-table}
+```{list-table}
 :widths: 25 100
 :header-rows: 0
 
 *  - ![foto](./images/JanGenoe.jpg)
    - Prof. Jan Genoe is scientific director at the Host institution imec and has received all support from the Host institution to build the research team and execute the research. Prof. Jan Genoe also takes the scientific leadership of the Video Holography ERC research.
-:::
+```
 
 ### Senior academic staff in the team
 
-:::{list-table} Senior academic staff
+```{list-table} Senior academic staff
 :widths: 25 100
 :header-rows: 0
 :name: staff
@@ -32,11 +32,11 @@ The ERC project Video Holography has been executed at [imec](https://www.imec.be
 
 *  - ![foto](./images/Paul.jpg)
    - Prof. Paul Heremans provides scientific input on the device performance.
-:::
+```
 
 ### PhD students
 
-:::{list-table} PhD students
+```{list-table} PhD students
 :widths: 25 100
 :header-rows: 0
 :name: phdstaff
@@ -49,7 +49,7 @@ The ERC project Video Holography has been executed at [imec](https://www.imec.be
 *  - ![foto](./images/Tsang-HsuanWang.jpg)
    - Tsang-Hsuan Wang is the PhD student elaborating the optimized growth conditions for the BTO and STO waveguide materials.
    
-:::
+```
 
 ## Other contributors
 
