@@ -11,7 +11,7 @@ The work performed in the ERC project Video Holography has been published in jou
 :header-rows: 0
 :name: JournalPapers
 
-*  -  
+*  -![foto](./images/APL.bmp)
    - Tsang-Hsuan Wang[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-7760-7500), 
 Po-Chun Hsu[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0003-0823-6088), 
 Maxim Korytov, 
@@ -21,7 +21,7 @@ Clement Merckling[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0003-3084-
 Journal of Applied Physics 128, 104104 (September 2020), 
 [DOI: 10.1063/5.0019980](http://dx.doi.org/10.1063/5.0019980)
 
-*  -  
+*  - ![foto](./images/STO.png) 
    - Tsang-Hsuan Wang[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-7760-7500), 
 Robert Gehlhaar[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-3038-9462), 
 Thierry Conard, 
@@ -71,7 +71,7 @@ Manuscript in preparation
 :header-rows: 0
 :name: Conferences
 
-*  - 
+*  - ![foto](./images/SHG.png)
    - Artur Hermans,
 Robby Janneck,
 Cedric Rolin[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0001-5542-8504),
