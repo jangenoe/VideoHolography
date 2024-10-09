@@ -5,7 +5,6 @@ The work performed in the ERC project Video Holography has been published in jou
 
 ## Journal papers
 
-
 :::{list-table} Journal papers
 :widths: 35 70
 :header-rows: 0
@@ -52,7 +51,6 @@ Jan Genoe[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-4019-5979),
 ACS Photonics 11,  pp. 529–536, Feb. 2024,
 [DOI: 10.1021/acsphotonics.3c01401](http://dx.doi.org/10.1021/acsphotonics.3c01401)
 
-   
 *  - 
    - Guillaume Croes[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0001-6168-9794), 
    V. Krasnov, 
