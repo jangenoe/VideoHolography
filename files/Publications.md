@@ -10,7 +10,7 @@ The work performed in the ERC project Video Holography has been published in jou
 :header-rows: 0
 :name: JournalPapers
 
-*  -![foto](./images/APL.bmp)
+*  - ![foto](./images/APL.bmp)
    - Tsang-Hsuan Wang[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-7760-7500), 
 Po-Chun Hsu[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0003-0823-6088), 
 Maxim Korytov, 
