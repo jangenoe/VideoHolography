@@ -3,5 +3,5 @@ root: intro2
 chapters:
 - file: sota
 - file: Team
-- file: Publications
+- file: Publications2
 - file: bib
