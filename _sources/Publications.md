@@ -121,15 +121,15 @@ Robert Gehlhaar[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-3038-94
 Thierry Conard,
 Jan Genoe[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-4019-5979), 
 Clement Merckling[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0003-3084-2543),
-**[Interface Control and Characterization of SrTiO3/Si(001)](docs/EMRS2020Spring_Abstract_Tsang.pdf)**,
+**[Interface Control and Characterization of SrTiO3/Si(001)](docs/EMRS2021Fall_TsangSTO.pdf)**,
 Proc. E-MRS-fall, 20th to 23rd September 2021
 
 *  - 
    - Tsang-Hsuan Wang[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-7760-7500),
 M. Korytov,
 P. C. Hsu,
-Jan Genoe, and
-Clement Merckling,
+Jan Genoe[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0002-4019-5979), and 
+Clement Merckling[{fab}`orcid;sd-text-success`](http://orcid.org/0000-0003-3084-2543),
 **[Single Crystalline BaTiO3 Grown by Pulsed-laser deposition (PLD) on SrTiO3 / Si Pseudo-substrate](docs/EMRS2020Spring_Abstract_Tsang.pdf)**,
  in Proc. E-MRS  spring, in Advanced functional films grown by pulsed deposition methods. Strasbourg, France, May 2020. [Online](https://www.european-mrs.com/advanced-functional-films-grown-pulsed-deposition-methods-emrs)
 
@@ -149,7 +149,7 @@ Clement Merckling,
 
 *  - ![foto](./images/phd.png)
    - Guillaume Croes,
-     **[Subwavelength Barium Titanate Pockels modulation through transparent conductive oxide nanopillars, Exploring models for hologram construction from evanescent fields](docs/thesisCroes.pdf)**,
-      PhD Thesis, KULeuven, Leuven, Belgium, Expected December 2024
+     **[Subwavelength Barium Titanate Pockels modulation through transparent conductive oxide nanopillars: Exploring models for hologram construction from evanescent fields](docs/thesisGuillaumeCroes.pdf)**,
+      PhD Thesis, KULeuven, Leuven, Belgium, March 19,2025.
    
 :::
