@@ -119,6 +119,6 @@ Clement Merckling,
      PhD Thesis, KULeuven, Leuven, Belgium, Monday, February 13, 2023.
 
 - Guillaume Croes,
-     **Subwavelength Barium Titanate Pockels modulation through transparent conductive oxide nanopillars, Exploring models for hologram construction from evanescent fields**,
-      PhD Thesis, KULeuven, Leuven, Belgium, Expected December 2024
+     **Subwavelength Barium Titanate Pockels modulation through transparent conductive oxide nanopillars: Exploring models for hologram construction from evanescent fields**,
+      PhD Thesis, KULeuven, Leuven, Belgium, March 19,2025.
    
